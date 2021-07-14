@@ -1,4 +1,9 @@
 # Context-Encoder
+
+![crop image](https://github.com/ArseniyAvilov/Context-Encoder/blob/main/img/crop_img.jpg)
+
+![reconst image](https://github.com/ArseniyAvilov/Context-Encoder/blob/main/img/reconstr1.jpg)
+
 -------------------------------------------------------------
 
 ## Используемые материалы
