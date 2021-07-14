@@ -16,3 +16,6 @@
 ### Изначально модель обучалась на kaggle, но финальный результат был получен на собоственном компьютере
 
 [Ноутбуки на kaggle с обучением на претрейн дате, в финале не использовалость т.к. претрейны были для лиц](https://www.kaggle.com/v1lkaav1lka/context-encoder-gan)
+
+
+[Ссылка на претрейн веса](https://drive.google.com/file/d/1q48nfK-XLjojrGXo8ARrr2rOCTRuF24j/view?usp=sharing)
